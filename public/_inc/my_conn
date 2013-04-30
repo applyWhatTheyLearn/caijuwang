@@ -1,0 +1,4 @@
+<?php
+set myConn=Server.CreateObject("ADODB.connection")
+myConn.Open "driver={Microsoft Access Driver (*.mdb)};dbq=" & Server.MapPath("../dbase/%#@$@#FDS@%#.mdb")
+?>
