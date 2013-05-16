@@ -1,265 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62adea5d-d3c4-4834-98eb-c17901bc386a" name="Default" comment="" />
-    <ignored path="nyhzs.iws" />
+    <list default="true" id="921fc5a2-4ad3-4256-9abd-9a39e4b7099f" name="Default" comment="" />
+    <ignored path="caijuwang.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356531493002" ignored="false" />
-    <file path="/common.inc.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356450495769" ignored="false" />
-    <file path="$PROJECT_DIR$/../4185/index.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356451221447" ignored="false" />
-    <file path="/product_list.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356794570761" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/product/product_list.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356478496727" ignored="false" />
-    <file path="/fragment.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358565983907" ignored="false" />
-    <file path="/top.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356491693382" ignored="false" />
-    <file path="/top.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356796287854" ignored="false" />
-    <file path="/a.dummy" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1365853482580" ignored="false" />
-    <file path="/Dummy.txt" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1367410940781" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/include/top.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356503318784" ignored="false" />
-    <file path="/*.regexp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358004347321" ignored="false" />
-    <file path="/firstProducttj.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356517152708" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/include/firstProducttj.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356514506277" ignored="false" />
-    <file path="/firstHotProductlist.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356519562922" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/include/firstHotProductlist.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356519210922" ignored="false" />
-    <file path="/copyright.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356525537498" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/include/copyright.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356520684279" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/include/First_right_list_1.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356525869184" ignored="false" />
-    <file path="/First_right_list_1.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356531138655" ignored="false" />
-    <file path="/dummy.txt" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1361545020903" ignored="false" />
-    <file path="/First_right_list_3.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356532156561" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/myshop/user_login.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356532806356" ignored="false" />
-    <file path="/user_login.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356602550616" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/myshop/user_reg.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356569660419" ignored="false" />
-    <file path="/user_reg.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356795351041" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/myshop/user_reg_sub.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356576071129" ignored="false" />
-    <file path="/user_reg_sub.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356624674301" ignored="false" />
-    <file path="/user_login_check.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356793050740" ignored="false" />
-    <file path="/user_index.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356603417414" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/myshop/user_index.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356601948831" ignored="false" />
-    <file path="$PROJECT_DIR$/../MyFirstPhpProject/MyFile.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357199640751" ignored="false" />
-    <file path="/MyFile.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357199622718" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/include/myshop_left1.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356705805988" ignored="false" />
-    <file path="/myshop_left1.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356706710925" ignored="false" />
-    <file path="/right_list_2.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356792302877" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/include/right_list_2.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356762344249" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/order/order.js" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356762865362" ignored="false" />
-    <file path="/hot_list.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356767855529" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/hot/hot_list.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356763355963" ignored="false" />
-    <file path="/SubPages.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356763704772" ignored="false" />
-    <file path="/testSubPage.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356764190505" ignored="false" />
-    <file path="/right_list_1.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356768586775" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/include/right_list_1.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356768622997" ignored="false" />
-    <file path="/NewProduct_list.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356770139344" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/newproduct/NewProduct_list.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356769746170" ignored="false" />
-    <file path="/ph_list.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356770955349" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/paihang/ph_list.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356770723954" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/car/car.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356778198187" ignored="false" />
-    <file path="/car.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356797739918" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/car/user_reg_sub.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356792748088" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/myshop/user_login_check.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356793145550" ignored="false" />
-    <file path="/user_login_check.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356793144255" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/_inc/GetTempNum.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356794599439" ignored="false" />
-    <file path="/GetTempNum.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356795944854" ignored="false" />
-    <file path="/ordersubmit.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356796994064" ignored="false" />
-    <file path="/OrderExtNumsubmit.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356797271536" ignored="false" />
-    <file path="/collection.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356797601623" ignored="false" />
-    <file path="/OrderNumsubmit.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356798157795" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/car/modiordernum.js" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356798218027" ignored="false" />
-    <file path="/delall.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356798751114" ignored="false" />
-    <file path="/SelectStatu.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356881128241" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/car/SelectStatu.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356850380484" ignored="false" />
-    <file path="/func.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358608995000" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/_inc/func.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356879070933" ignored="false" />
-    <file path="/orderInfo.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356925812293" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/car/orderInfo.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356922900571" ignored="false" />
-    <file path="/orderInfo.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356922898968" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/car/orderSubmit.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1356925955425" ignored="false" />
-    <file path="/orderSubmit.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363271720132" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/car/order_ok.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357136125481" ignored="false" />
-    <file path="/order_ok.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357133689816" ignored="false" />
-    <file path="/login.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357136720914" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/login.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357136139312" ignored="false" />
-    <file path="/chacklogin.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357137866435" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/chacklogin.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357136905542" ignored="false" />
-    <file path="/managelist.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357139109101" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/managelist.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357139032846" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/manageleft.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357139279654" ignored="false" />
-    <file path="/manageleft.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357140989986" ignored="false" />
-    <file path="/logout.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357141236487" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/subMenu.js" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357142126288" ignored="false" />
-    <file path="/subMenuView.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357919625252" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/subMenuView.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357144497846" ignored="false" />
-    <file path="/Login_User.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357182453654" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/Login_User.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357180353167" ignored="false" />
-    <file path="/Login_User_Modi.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357199219952" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/Login_User_Modi.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357193673312" ignored="false" />
-    <file path="/*.txt" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357183655330" ignored="false" />
-    <file path="/chackoutime2.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357183978069" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/_inc/chackoutime2.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357200193422" ignored="false" />
-    <file path="/Login_User_Modi_Submit.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357199533145" ignored="false" />
-    <file path="/Login_User_Modi.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357193671643" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/Login_User_Modi_Submit.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357193719463" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/_inc/chackoutime.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357200113861" ignored="false" />
-    <file path="/User_List.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357201920088" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/User_List.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357200536536" ignored="false" />
-    <file path="/User_Modi.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357203274487" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/User_Modi.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357203149734" ignored="false" />
-    <file path="/media/main/weiyongqing/project/ma3ch/client/ma3ch.html" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357374798920" ignored="false" />
-    <file path="/User_add.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358567006200" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/User_add.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357394338310" ignored="false" />
-    <file path="/User_add_submit.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1360117113395" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/User_add_submit.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357395206586" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/User_Modi_Submit.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357395923541" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/QxLm_List.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357396385035" ignored="false" />
-    <file path="/QxLm_List.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357397897424" ignored="false" />
-    <file path="/media/main/weiyongqing/project/tools/nodejs/getWebContent.js" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357658270080" ignored="false" />
-    <file path="/Qxlm_Modi.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357827288565" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/Qxlm_Modi.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357824093776" ignored="false" />
-    <file path="/Qxlm_Del.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357825669616" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/Qxlm_Del.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357825475375" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/Qxlm_Modi_submit.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357826219330" ignored="false" />
-    <file path="/Qxlm_Modi_submit.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357826779002" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/Qxlm_addsmall.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357827585630" ignored="false" />
-    <file path="/Qxlm_addsmall.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357827872460" ignored="false" />
-    <file path="/Qxlm_Addsmall_submit.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357828566807" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/Qxlm_Addsmall_submit.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357828421828" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductClass/ProBigClass_List.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357829153848" ignored="false" />
-    <file path="/ProBigClass_List.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358581453125" ignored="false" />
-    <file path="/ProFittings_List.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358579652873" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductClass/ProFittings_List.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357917130211" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductDetail/ProClass_List.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357918480692" ignored="false" />
-    <file path="/ProClass_List.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357918824268" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductDetail/subMenuView.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357919898066" ignored="false" />
-    <file path="/Pro_List.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357962076518" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductDetail/Pro_List.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357960917221" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductDetail/Pro_TjList.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357962414929" ignored="false" />
-    <file path="/Pro_TjList.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1361811619896" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/Order/New_Order_list.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357967939484" ignored="false" />
-    <file path="/New_Order_list.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357975425988" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/Order/Complate_Order_list.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357975827098" ignored="false" />
-    <file path="/Complate_Order_list.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357977747648" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/Order/JinXing_Order_list.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357978245690" ignored="false" />
-    <file path="/JinXing_Order_list.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357978705349" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/members/Member_List.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357978985727" ignored="false" />
-    <file path="/Member_List.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357997570466" ignored="false" />
-    <file path="/Link_list.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1359722304863" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/Link/Link_list.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357998171181" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/Comate/Comate_list.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1357999868120" ignored="false" />
-    <file path="/Comate_list.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358001802517" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/help/help_door.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358002779912" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/help/helpClass_List.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358002912798" ignored="false" />
-    <file path="/helpClass_List.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358003343848" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/PingLun/PingLun_list.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358003597190" ignored="false" />
-    <file path="/PingLun_list.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363046424357" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/GongGao/GongGao_list.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358004640526" ignored="false" />
-    <file path="/GongGao_list.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358005344588" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/hot/Hot_list.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358005439894" ignored="false" />
-    <file path="/Hot_list.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358005872868" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/return/return_list.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358005993086" ignored="false" />
-    <file path="/return_list.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358006031621" ignored="false" />
-    <file path="/copyright_modi.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358258524573" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/picmanage/pic_list.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358006713588" ignored="false" />
-    <file path="/pic_list.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358006768695" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/copyright/copyright_modi.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358255527066" ignored="false" />
-    <file path="/copyright_modi_sub.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358259822959" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/copyright/copyright_modi_sub.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358259603229" ignored="false" />
-    <file path="/User_Del.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358527871813" ignored="false" />
-    <file path="/ProBigClass_Del.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363409624246" ignored="false" />
-    <file path="/ProSmallClass_List.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358609498669" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductClass/ProSmallClass_List.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358579745666" ignored="false" />
-    <file path="/ProBigClass_Modi.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358581357340" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductClass/ProBigClass_Modi.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358580893441" ignored="false" />
-    <file path="/ProBigClass_Modi_Submit.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358582287362" ignored="false" />
-    <file path="/__dummy.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358581998550" ignored="false" />
-    <file path="/db.inc.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358584272546" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductClass/ProBigClass_Del.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358584485653" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductClass/ProBigClass_add.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358600784418" ignored="false" />
-    <file path="/ProBigClass_add.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358601084696" ignored="false" />
-    <file path="/ProBigClass_Add_Submit.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363409277055" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductClass/ProBigClass_Add_Submit.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358602019800" ignored="false" />
-    <file path="/ProFittings_Modi.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358604545974" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductClass/ProFittings_Modi.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358603503742" ignored="false" />
-    <file path="/ProFittings_Modi_Submit.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358605207543" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductClass/ProFittings_add.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358605355040" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductClass/ProFittings_Add_Submit.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358605888130" ignored="false" />
-    <file path="/ProFittings_Add_Submit.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358606400181" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductClass/ProSmallClass_add.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358607389852" ignored="false" />
-    <file path="/ProSmallClass_add.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358607660750" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductClass/ProSmallClass_add_Submit.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358608313879" ignored="false" />
-    <file path="/ProSmallClass_add_Submit.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358608463024" ignored="false" />
-    <file path="/ProFittingsPic_del.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358610410317" ignored="false" />
-    <file path="/ProSmallClass_Modi.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358610731865" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductClass/ProSmallClass_Modi.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358654918968" ignored="false" />
-    <file path="/ProSmallClass_Modi_Submit.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358655186512" ignored="false" />
-    <file path="/ProSmallClass_Del.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358686339278" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductClass/ProSmallClass_Del.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358686502662" ignored="false" />
-    <file path="/ProFittings_Del.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358687127040" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductDetail/Pro_door.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358688174522" ignored="false" />
-    <file path="/Pro_Temp.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358688350461" ignored="false" />
-    <file path="/media/main/weiyongqing/project/style2_access/management/ProductDetail/Pro_Temp.asp" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358688331265" ignored="false" />
-    <file path="/media/main/weiyongqing/project/PreloadJS/examples/PreloadQueue.html" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358725773369" ignored="false" />
-    <file path="/PreloadQueue.html" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358725769876" ignored="false" />
-    <file path="/media/main/weiyongqing/project/PreloadJS/examples/PreloadImages.html" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1358725806255" ignored="false" />
-    <file path="/Member_add.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1359217216948" ignored="false" />
-    <file path="/hell.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1359463072333" ignored="false" />
-    <file path="/editor_config.js" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1359463479085" ignored="false" />
-    <file path="/Member_add_Submit.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1359553697277" ignored="false" />
-    <file path="/Member_Modi.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1359560395379" ignored="false" />
-    <file path="/Member_Modi_Submit.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1359645279662" ignored="false" />
-    <file path="/Member_Del.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1359644448825" ignored="false" />
-    <file path="/Link_modi.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1359648496519" ignored="false" />
-    <file path="/Link_modi_sub.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1359648748877" ignored="false" />
-    <file path="/Link_add_sub.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1359721856000" ignored="false" />
-    <file path="/Link_del.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1359722073000" ignored="false" />
-    <file path="/Comate_add.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1359722669639" ignored="false" />
-    <file path="/Comate_add_sub.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1359724568304" ignored="false" />
-    <file path="/Comate_del.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1359725013949" ignored="false" />
-    <file path="/Comate_modi.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1359725274610" ignored="false" />
-    <file path="/Comate_modi_sub.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1359726416904" ignored="false" />
-    <file path="/contact_modi.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1359731874082" ignored="false" />
-    <file path="/contact_modi_sub.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1359731767746" ignored="false" />
-    <file path="/backup_db.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1360118926850" ignored="false" />
-    <file path="/recovery_db.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1361459413792" ignored="false" />
-    <file path="/ProClass_ModiPic_Save.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1361614622801" ignored="false" />
-    <file path="/Pro_list.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1361626237383" ignored="false" />
-    <file path="/Pro_Pic_List.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363428762725" ignored="false" />
-    <file path="/Pro_Pic_addPic_Save.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1361634032766" ignored="false" />
-    <file path="/Pro_Pic_modiPic_Save.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1361675382147" ignored="false" />
-    <file path="/Pro_modi.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1361706320815" ignored="false" />
-    <file path="/Pro_Modi_Submit.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1361811389581" ignored="false" />
-    <file path="/cenceltj.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1361811897588" ignored="false" />
-    <file path="/Pro_add.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1361841634793" ignored="false" />
-    <file path="/Pro_Add_Submit.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1361844342603" ignored="false" />
-    <file path="/Pro_Del.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1361845385087" ignored="false" />
-    <file path="/product_detail.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363397319216" ignored="false" />
-    <file path="/productInfoExt.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1362929347129" ignored="false" />
-    <file path="/pinglun.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363045448634" ignored="false" />
-    <file path="/pinglun_submit.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363044838539" ignored="false" />
-    <file path="/PingLun_del.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363048465080" ignored="false" />
-    <file path="/PingLun_modi.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363103893182" ignored="false" />
-    <file path="/user_order_list.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363132565735" ignored="false" />
-    <file path="/user_order_detail.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363309141775" ignored="false" />
-    <file path="/productpic.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363310316331" ignored="false" />
-    <file path="/order.js" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363398689921" ignored="false" />
-    <file path="/Pro_Detail.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363424352690" ignored="false" />
-    <file path="/search_product_list.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363440160770" ignored="false" />
-    <file path="/user_collection.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363444810730" ignored="false" />
-    <file path="/user_collection_cencel.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363444404377" ignored="false" />
-    <file path="/user_modireg.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363447434984" ignored="false" />
-    <file path="/user_modireg_sub.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363523386367" ignored="false" />
-    <file path="/user_pinlun_list.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363528218044" ignored="false" />
-    <file path="/user_pinlun_detail.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363528710267" ignored="false" />
-    <file path="/hot_detail.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1363563451684" ignored="false" />
-    <file path="$PROJECT_DIR$/../azn/public/ueditor/php/fileDel.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1365863723625" ignored="false" />
-    <file path="/fileDel.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1365863659449" ignored="false" />
-    <file path="$PROJECT_DIR$/../azn/public/ueditor/editor_all.js" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1365860919610" ignored="false" />
-    <file path="/editor_all.js" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1365860879014" ignored="false" />
-    <file path="$PROJECT_DIR$/../azn/public/ueditor/uparse.js" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1365853262783" ignored="false" />
-    <file path="/gonggao_modi.blade.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1365856219198" ignored="false" />
-    <file path="$PROJECT_DIR$/../azn/application/views/admin/gonggao/gonggao_modi.blade.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1365856219198" ignored="false" />
-    <file path="/Member_Detail.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1366250218362" ignored="false" />
-    <file path="$PROJECT_DIR$/../azn/application/views/admin/product/pro_list.blade.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1367070364445" ignored="false" />
-    <file path="$PROJECT_DIR$/../azn/application/views/admin/product/pro_add.blade.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1367077100252" ignored="false" />
-    <file path="$PROJECT_DIR$/../azn/application/controllers/product.php" changelist="62adea5d-d3c4-4834-98eb-c17901bc386a" time="1367077100252" ignored="false" />
+    <file path="/Dummy.txt" changelist="921fc5a2-4ad3-4256-9abd-9a39e4b7099f" time="1368696174602" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,7 +19,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -310,28 +54,20 @@
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="nyhzs" />
+    <favorites_list name="caijuwang" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Member_Detail.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/admin/members/Member_Detail.php">
+      <file leaf-file-name="home.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="3" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hot_Detail.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/admin/hot/Hot_Detail.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="12" selection-start="2273" selection-end="2273" vertical-scroll-proportion="0.110912345">
+            <state line="133" column="0" selection-start="4546" selection-end="4546" vertical-scroll-proportion="0.43137255">
               <folding />
             </state>
           </provider>
@@ -344,11 +80,6 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
-  <component name="FrameworkCommandLineHistory">
-    <commandsHistory>
-      <command text="nginxstop" />
-    </commandsHistory>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -360,31 +91,13 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/myshop/user_modireg.php" />
-        <option value="$PROJECT_DIR$/myshop/user_modireg_sub.php" />
-        <option value="$PROJECT_DIR$/myshop/user_pinlun_list.php" />
-        <option value="$PROJECT_DIR$/myshop/user_pinlun_detail.php" />
-        <option value="$PROJECT_DIR$/hot/hot_detail.php" />
-        <option value="$PROJECT_DIR$/admin/GongGao/GongGao_add.php" />
-        <option value="$PROJECT_DIR$/admin/GongGao/GongGao_modi.php" />
-        <option value="$PROJECT_DIR$/admin/PingLun/PingLun_modi.php" />
-        <option value="$PROJECT_DIR$/admin/ProductDetail/Pro_add.php" />
-        <option value="$PROJECT_DIR$/admin/ProductDetail/Pro_modi.php" />
-        <option value="$PROJECT_DIR$/admin/contact/contact_modi.php" />
-        <option value="$PROJECT_DIR$/admin/hot/Hot_add.php" />
-        <option value="$PROJECT_DIR$/admin/members/Member_Modi.php" />
-        <option value="$PROJECT_DIR$/admin/members/Member_add.php" />
-        <option value="$PROJECT_DIR$/public/admin/members/Member_Detail.php" />
-        <option value="$PROJECT_DIR$/public/ueditor/editor_config.js" />
+        <option value="$PROJECT_DIR$/application/controllers/home.php" />
       </list>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState />
-  </component>
   <component name="PhpServers">
     <option name="servers">
-      <server host="localhost" name="nyhzsServer" use_path_mappings="true">
+      <server host="localhost" name="caijuwang" use_path_mappings="true">
         <path_mappings>
           <path_mapping local_path="$PROJECT_DIR$" remote_path="$PROJECT_DIR$" />
         </path_mappings>
@@ -397,7 +110,7 @@
     <option name="width" value="1366" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -423,173 +136,53 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nyhzs" />
+              <option name="myItemId" value="caijuwang" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nyhzs" />
+              <option name="myItemId" value="caijuwang" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="nyhzs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nyhzs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nyhzs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nyhzs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nyhzs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nyhzs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nyhzs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="members" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nyhzs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nyhzs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="link" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nyhzs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="nyhzs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hot" />
+              <option name="myItemId" value="caijuwang" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Project" />
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="recentsLimit" value="5" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="preferences.pluginManager" />
-    <property name="last_opened_file_path" value="/media/main/weiyongqing/project/style2_access/management/members/Member_add.asp" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/uEditor" />
-      <recent name="$PROJECT_DIR$/folder/fittings" />
-      <recent name="$PROJECT_DIR$/_inc" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/includes" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/includes" />
-      <recent name="$PROJECT_DIR$/install" />
-    </key>
-  </component>
-  <component name="RunManager" selected="PHP Web Application.nyhzsDebug">
+  <component name="RunManager" selected="PHP Web Application.caijuwang">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
-    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
-      <TestRunner />
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
       <method />
     </configuration>
-    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="nyhzsServer">
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -598,9 +191,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -680,15 +270,13 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="nyhzsDebug" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="CHROME" server_name="nyhzsServer" start_url="/nyhzs">
-      <RunnerSettings RunnerId="PhpRunner" />
+    <configuration default="false" name="caijuwang" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" browser="FIREFOX" server_name="caijuwang" start_url="/caijuwang/public">
       <RunnerSettings RunnerId="PhpWebAppDebugRunner" />
-      <ConfigurationWrapper RunnerId="PhpRunner" />
       <ConfigurationWrapper RunnerId="PhpWebAppDebugRunner" />
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.nyhzsDebug" />
+      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.caijuwang" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -698,68 +286,37 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="62adea5d-d3c4-4834-98eb-c17901bc386a" name="Default" comment="" />
-      <created>1356445379477</created>
-      <updated>1356445379477</updated>
+      <changelist id="921fc5a2-4ad3-4256-9abd-9a39e4b7099f" name="Default" comment="" />
+      <created>1368574602152</created>
+      <updated>1368574602152</updated>
     </task>
-    <task id="LOCAL-00001" summary="first">
-      <created>1356501035100</created>
-      <updated>1356501035100</updated>
-    </task>
-    <task id="LOCAL-00002" summary="将后缀改为php">
-      <created>1356506211438</created>
-      <updated>1356506211438</updated>
-    </task>
-    <task id="LOCAL-00003" summary="w完成首页的改造">
-      <created>1356532573109</created>
-      <updated>1356532573109</updated>
-    </task>
-    <task id="LOCAL-00004" summary="前台改造完，后台到登陆用户管理">
-      <created>1357396057042</created>
-      <updated>1357396057042</updated>
-    </task>
-    <task id="LOCAL-00005" summary="前台改造完，后台到登陆用户管理">
-      <created>1357487624538</created>
-      <updated>1357487624538</updated>
-    </task>
-    <task id="LOCAL-00006" summary="hout页面一级目录的列表修改完">
-      <created>1358007217340</created>
-      <updated>1358007217340</updated>
-    </task>
-    <task id="LOCAL-00007" summary="大体改造，还剩会员">
-      <created>1363529300876</created>
-      <updated>1363529300876</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37639552" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39872408" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.60032105" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.61563" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.8692185" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17424242" sideWeight="0.6682616" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.119617224" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33173844" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3264" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -800,7 +357,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="大体改造，还剩会员" />
+    <option name="LAST_COMMIT_MESSAGE" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -813,300 +370,41 @@
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="first" />
-    <MESSAGE value="将后缀改为php" />
-    <MESSAGE value="w完成首页的改造" />
-    <MESSAGE value="前台改造完，后台到登陆用户管理" />
-    <MESSAGE value="hout页面一级目录的列表修改完" />
-    <MESSAGE value="大体改造，还剩会员" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/myshop/user_reg_sub.php</url>
-          <line>30</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/myshop/user_reg_sub.php</url>
-          <line>48</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/myshop/user_reg_sub.php</url>
-          <line>50</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/admin/Qxlm_Modi.php</url>
-          <line>4</line>
-          <option name="timeStamp" value="56" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/admin/User_add_submit.php</url>
-          <line>5</line>
-          <option name="timeStamp" value="57" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/admin/User_Del.php</url>
-          <line>5</line>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/admin/ProductClass/ProBigClass_Modi_Submit.php</url>
-          <line>12</line>
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/admin/ProductClass/ProBigClass_Modi_Submit.php</url>
-          <line>8</line>
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/admin/link/Link_del.php</url>
-          <line>4</line>
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/admin/backup_db/recovery_db.php</url>
-          <line>6</line>
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/product/pinglun_submit.php</url>
-          <line>2</line>
-          <option name="timeStamp" value="97" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/product/pinglun_submit.php</url>
-          <line>8</line>
-          <option name="timeStamp" value="98" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/product/pinglun_submit.php</url>
-          <line>12</line>
-          <option name="timeStamp" value="99" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/order/collection.php</url>
-          <line>7</line>
-          <option name="timeStamp" value="107" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/car/order_ok.php</url>
-          <line>7</line>
-          <option name="timeStamp" value="108" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/car/SelectStatu.php</url>
-          <line>22</line>
-          <option name="timeStamp" value="111" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/myshop/user_modireg_sub.php</url>
-          <line>22</line>
-          <option name="timeStamp" value="128" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/myshop/user_modireg_sub.php</url>
-          <line>3</line>
-          <option name="timeStamp" value="130" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="132" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/admin/members/Member_Detail.php">
+    <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="3" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
+        <state line="133" column="0" selection-start="4546" selection-end="4546" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/hot/Hot_Detail.php">
+    <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="12" selection-start="2273" selection-end="2273" vertical-scroll-proportion="0.0">
+        <state line="75" column="43" selection-start="2675" selection-end="2675" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/members/Member_Detail.php">
+    <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="3" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
+        <state line="62" column="5" selection-start="2126" selection-end="2126" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/hot/Hot_Detail.php">
+    <entry file="file://$PROJECT_DIR$/application/controllers/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="66" selection-start="1692" selection-end="1692" vertical-scroll-proportion="0.0">
+        <state line="133" column="0" selection-start="4546" selection-end="4546" vertical-scroll-proportion="0.43137255">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/members/Member_Detail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="3" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/hot/Hot_Detail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="41" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/members/Member_Detail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="3" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/hot/Hot_Detail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="1" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/members/Member_Detail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="34" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/hot/Hot_Detail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="26" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/members/Member_Detail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="34" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/hot/Hot_Detail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="26" selection-start="405" selection-end="405" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/ueditor/editor_config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="28" selection-start="5255" selection-end="5255" vertical-scroll-proportion="0.48979592" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/members/Member_Detail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="3" selection-start="450" selection-end="450" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/admin/hot/Hot_Detail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="12" selection-start="2273" selection-end="2273" vertical-scroll-proportion="0.110912345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.7</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>nyhzs</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.5" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
 
